@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: visit_model
+    database: crested-vortex-284305
+    tables:
+      - name: customer_features
